@@ -1,0 +1,8 @@
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\bin\Debug\Lesson_1Lab2.exe.config
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\bin\Debug\Lesson_1Lab2.exe
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\bin\Debug\Lesson_1Lab2.pdb
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\obj\Debug\Lesson_1Lab.csproj.AssemblyReference.cache
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\obj\Debug\Lesson_1Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\obj\Debug\Lesson_1Lab.csproj.CoreCompileInputs.cache
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\obj\Debug\Lesson_1Lab2.exe
+C:\Users\STwow\source\repos\Lesson_1Lab2\Lesson_1Lab2\obj\Debug\Lesson_1Lab2.pdb
